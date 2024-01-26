@@ -36,9 +36,8 @@ cd modify-md5-hash
 3. Run the executable. If successful, it will display the original and modified MD5 hashes.
 
 ## Repository Structure
-- `modify_md5_hash.cpp`: Main C++ source code file.
+- `main.cpp`: Main C++ source code file.
 - `README.md`: Project documentation.
-- `.gitignore`: Specifies intentionally untracked files to be ignored by Git.
 - `LICENSE`: License information (replace with your chosen license).
 
 ## Contributing
