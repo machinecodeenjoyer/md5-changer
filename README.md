@@ -38,7 +38,7 @@ cd modify-md5-hash
 ## Repository Structure
 - `main.cpp`: Main C++ source code file.
 - `README.md`: Project documentation.
-- `LICENSE`: License information (replace with your chosen license).
+- `LICENSE`: License information.
 
 ## Contributing
 Feel free to contribute to this project by submitting issues or pull requests. Please follow the code of conduct.
